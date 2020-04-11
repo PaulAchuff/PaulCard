@@ -11,8 +11,8 @@ import SwiftUI
 struct ContentView: View {
     var body: some View {
         ZStack {
-            Color(UIColor(red:0.12, green:0.22, blue:0.60, alpha:1.00))
-            //Color(UIColor(red:0.92, green:0.18, blue:0.02, alpha:1.00))
+            //Color(UIColor(red:0.12, green:0.22, blue:0.60, alpha:1.00))
+            Color(UIColor(red:0.92, green:0.18, blue:0.02, alpha:1.00))
             //Color(UIColor(red:0.05, green:0.14, blue:0.38, alpha:1.00))
             //Color(UIColor(red:1.00, green:0.74, blue:0.74, alpha:1.00))
             .edgesIgnoringSafeArea(.all)
